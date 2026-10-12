@@ -1,0 +1,2 @@
+# ClashRoyaleEmulator
+Based on SpookyPopEmulator
